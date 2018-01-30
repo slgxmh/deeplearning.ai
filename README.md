@@ -1,3 +1,6 @@
-# My Awesome Book
+# deeplearning.ai学习笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+网易云课堂链接[http://mooc.study.163.com/smartSpec/detail/1001319001.htm](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)
+
+![](/assets/import.png)
+
