@@ -1,8 +1,12 @@
 # 4.1.2 边缘检测
 
+---
+
 ## 边缘
 
 边缘既是图像上有明显过度的线条
+
+---
 
 ## 正边和负边
 
@@ -10,15 +14,21 @@
 
 明暗的变化就表现为图像上的边缘
 
+---
+
 ## 垂直边缘检测
 
 使用过下图滤器可以实现垂直边缘检测的功能。具体过程为，将图片所对应的矩阵与该过滤器进行卷积。
 
-![](/assets/HorizontalEdgeFilter.png)
+![](/assets/412/VerticalEdgeFilter.png)
+
+---
 
 ## 水平边缘检测
 
 使用过下图滤器可以实现水平边缘检测的功能。具体过程为，将图片所对应的矩阵与该过滤器进行卷积。
 
-![](/assets/VerticalEdgeFilter.png)
+![](/assets/412/HorizontalEdgeFilter.png)
+
+
 
