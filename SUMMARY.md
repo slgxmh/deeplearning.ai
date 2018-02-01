@@ -7,4 +7,6 @@
     * [4.1.2 边缘检测](412-bian-yuan-jian-ce.md)
     * [4.1.3 更多边缘检测](413-geng-duo-bian-yuan-jian-ce.md)
     * [4.1.4 padding](414-padding.md)
+    * [4.1.5 卷积步长](415-juan-ji-bu-chang.md)
+    * [4.1.6 卷积中“卷”的体现](416-juan-ji-zhong-201c-juan-201d-de-ti-xian.md)
 
