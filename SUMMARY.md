@@ -11,4 +11,5 @@
     * [4.1.6 卷积中“卷”的体现](416-juan-ji-zhong-201c-juan-201d-de-ti-xian.md)
     * [4.1.7 单层卷积网络](417-dan-ceng-juan-ji-wang-luo.md)
     * [4.1.8 简单卷积网络示例](418-jian-dan-juan-ji-wang-luo-shi-li.md)
+    * [4.1.9 池化层](419-chi-hua-ceng.md)
 
